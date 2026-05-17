@@ -1,0 +1,5 @@
+payment_method,total_transactions,total_gmv,confirmed_gmv,high_risk_transactions
+Card,13,52730.0,34123.0,3
+NetBanking,3,15226.0,11662.0,2
+UPI,9,34287.0,28441.0,3
+Wallet,5,13378.0,7784.0,0
