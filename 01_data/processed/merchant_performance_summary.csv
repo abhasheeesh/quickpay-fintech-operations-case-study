@@ -1,0 +1,6 @@
+merchant_name,total_transactions,total_gmv,confirmed_gmv,avg_risk_score,high_value_transactions,high_risk_transactions
+ALPHA MART,11,40698.0,29928.5,61.2,2,3
+BETA STORES ,11,41531.0,33141.5,69.36,2,5
+City Pharma,2,8640.0,8640.0,40.0,0,0
+DELTA TRAVELS,4,14600.0,10300.0,48.75,1,0
+Eco Home,2,10152.0,0.0,54.5,0,0
